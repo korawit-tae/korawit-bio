@@ -2,8 +2,7 @@
 
 เว็บไซต์ Bio Link ส่วนตัว สไตล์แฟนตาซีจีนโบราณ (Dark Fantasy Style) สำหรับรวมช่องทางการติดต่อ Social Media และเพลงประกอบเว็บ พร้อมนำขึ้นระบบ Vercel
 
-🌐 **Live Demo:** [https://korawit-bio.vercel.app](https://korawit-bio.vercel.app) *(ใส่ลิงก์จริงของ Vercel ตรงนี้)*
-
+🌐 **Live Demo:** [https://korawit-bio.vercel.app](https://korawit-bio.vercel.app)
 ---
 
 ### ✨ Features
