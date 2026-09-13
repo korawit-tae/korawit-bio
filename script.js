@@ -2,6 +2,7 @@ const links=[
   ['◉','GitHub','https://github.com/korawit-tae'],
   ['◎','Instagram','https://www.instagram.com/_krwisemipro/'],
   ['f','Facebook','https://www.facebook.com/kr.wichy.chu.leuxn'],
+  ['ᒪ','LinkedIn','https://www.linkedin.com/in/korawit-chuluean-757746436'],
   ['▶','YouTube','https://www.youtube.com/@Kayami_Akina'],
   ['◌','Discord · kayami_akina','https://discord.com/users/kayami_akina'],
   ['✉','taaytay99924@gmail.com','mailto:taaytay99924@gmail.com']
