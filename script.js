@@ -7,6 +7,7 @@ const links=[
   ['◌','Discord · kayami_akina','https://discord.com/users/kayami_akina'],
   ['✉','taaytay99924@gmail.com','mailto:taaytay99924@gmail.com']
 ];
+window.addEventListener('load',()=>document.querySelector('.loader').classList.add('is-hidden'));
 const list=document.querySelector('.links');
 list.innerHTML=links.map(([icon,label,url])=>`<a class="link" href="${url}" target="_blank"><span class="icon" data-icon="${icon}" aria-hidden="true"></span>${label}</a>`).join('');
 const music=document.querySelector('.music'),toggle=document.querySelector('.music-toggle');
